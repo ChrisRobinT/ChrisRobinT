@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I am Chris 👋
 
-<!--
-**ChrisRobinT/ChrisRobinT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computing Science Student** at Radboud University  
+**Full-Stack Developer** | Seeking Summer 2026 Internships
 
-Here are some ideas to get you started:
+## 🚀 Current Projects
+- Building mobile apps with React Native & AI integration
+- Full-stack web applications with Next.js & FastAPI
+- Real-time collaboration tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Python, JavaScript, TypeScript, Java, SQL 
+**Frontend:** React, Next.js, React Native  
+**Backend:** FastAPI, Node.js  
+**Tools:** Git, Supabase, PostgreSQL
+
+## 📫 Connect
+- [LinkedIn](https://linkedin.com/in/chrisrobintalts)
+- chrisrobin.talts@gmail.com
+
+---
+⭐️ Check out my pinned repositories below!
