@@ -10,8 +10,11 @@
 
 ## 🛠️ Tech Stack
 **Languages:** Python, JavaScript, TypeScript, Java, SQL 
+
 **Frontend:** React, Next.js, React Native
+
 **Backend:** FastAPI, Node.js  
+
 **Tools:** Git, Supabase, PostgreSQL
 
 ## 📫 Connect
