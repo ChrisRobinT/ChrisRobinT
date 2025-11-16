@@ -39,7 +39,7 @@ GPA: 3.7/4.0 (Top 15%) • Nijmegen, Netherlands
 
 ## 📫 Let's Connect
 
-Open to collaboration and currently seeking **Summer 2025 Software Engineering Internships**.
+Open to collaboration and currently seeking **Summer 2026 Software Engineering Internships**.
 
 [LinkedIn](https://linkedin.com/in/chrisrobintalts) •  
 [Email](mailto:chrisrobin.talts@gmail.com)
